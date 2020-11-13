@@ -1,5 +1,5 @@
 
-## Spring Framework Tutorial
+## Spring Framework Core Tutorial
  * Configuration File 
  * Bean 
  * Setter 
